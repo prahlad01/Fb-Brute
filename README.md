@@ -24,3 +24,15 @@ Use Strong Password(Contain all chars + longest as possible)
 Use two way authentication.
 
 Make location based login(+browser based).
+
+
+# Info About Author
+
+Name :- Prahlad Shukla 
+
+Youtube channel :- The Cyber Kiddie 
+
+link :-https://www.youtube.com/channel/UCAdNa5GK715P1U2-A810ujA
+
+
+instagram :- Prahladshukla414

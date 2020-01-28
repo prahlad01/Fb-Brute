@@ -7,7 +7,7 @@ apt-get install git python3 python3-pip python python-pip
 
 # Run commands one by one
 
-git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+git clone https://github.com/prahlad01/Fb-Brute
 
 cd Fb-brute
 
